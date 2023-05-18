@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
+  "title": "Make Money Weekend",
   "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "description": "we are passionate about helping people make money online. Our mission is to provide you with the tools, resources, and guidance you need to build a successful online business.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Make Money",
+    "description": "we are passionate about helping people make money online. Our mission is to provide you with the tools, resources, and guidance you need to build a successful online business. :)"
   }
 }
