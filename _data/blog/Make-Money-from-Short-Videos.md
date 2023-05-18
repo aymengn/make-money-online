@@ -3,9 +3,7 @@ template: BlogPost
 path: /Make-Money-from-Short-Videos
 date: 2020-02-20T07:08:53.137Z
 title: Mastering YouTube Shorts| Learn How to Make Money from Short Videos
-thumbnail: ''
-metaDescription: Until 2023, making money through YouTube Shorts in the conventional sense was not possible. However, a significant change occurred on February 1, 2023, when YouTube Shorts monetization became accessible to most creators
-thumbnail: /assets/YouTube-shorts.jpg
+thumbnail: 'https://blogger.googleusercontent.com/img/a/AVvXsEiLUZJ2lH4hzIdVN21nC_xUoDooKk93lkVuaAwafLkuNuM8k93MaBSsmGutyJLiYEMpySJ6dzB5k2h4gdlp6NWHTxj98abU9F2PZmQmorE1HWSJQfGE68GGgSTsvX0jlE-sGqyTbPESkDDb6GGn3xjCHGkuCjcorw1FTpNjPAXRU6q1d_1nMiVH7tr3gg'
 ---
 
 ## Is YouTube Shorts Monetized?
